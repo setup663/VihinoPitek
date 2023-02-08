@@ -1,0 +1,6 @@
+C:\Users\Aleksandr\source\repos\RoomExampleKovyarov\obj\Debug\RoomExampleKovyarov.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\RoomExampleKovyarov\obj\Debug\RoomExampleKovyarov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\source\repos\RoomExampleKovyarov\obj\Debug\MainWindow.g.cs
+C:\Users\Aleksandr\source\repos\RoomExampleKovyarov\obj\Debug\App.g.cs
+C:\Users\Aleksandr\source\repos\RoomExampleKovyarov\obj\Debug\RoomExampleKovyarov_MarkupCompile.cache
+C:\Users\Aleksandr\source\repos\RoomExampleKovyarov\obj\Debug\RoomExampleKovyarov_MarkupCompile.lref
